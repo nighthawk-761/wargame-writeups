@@ -9,10 +9,6 @@
 *.pem
 *.key
 *.zip
-*.png
-*.jpg
-*.jpeg
-*.webp
 
 # Local artifacts
 artifacts/
