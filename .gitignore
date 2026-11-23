@@ -1,0 +1,22 @@
+# CloudGoat output and credentials
+**/start.txt
+**/.terraform/
+*.tfstate
+*.tfstate.*
+.env
+.env.*
+.aws/
+*.pem
+*.key
+*.zip
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Local artifacts
+artifacts/
+loot.txt
+payload.json
+response.json
+lambda-response.json
